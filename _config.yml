@@ -1,3 +1,4 @@
 name: Yeochan Youn, Computer Science
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+baseurl: '/YeochanYoun119' #
