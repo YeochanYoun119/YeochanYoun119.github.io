@@ -1,7 +1,12 @@
 ---
 layout: page
 title: My Projects
-description: This is what I do.
+description: These are what I have done as a programmer.
 background: '/img/bg-about.jpg'
 ---
-<p> Here is where my projects go in</p>
+<div class="container-sm">
+    {% for project in site.projects %}
+    {{ project }}
+    <div class="post-border"></div>
+    {% endfor %}
+</div>
