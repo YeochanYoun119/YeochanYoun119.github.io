@@ -48,7 +48,7 @@ background: '/img/bg-post.jpg'
 {% endif %}
 <!--
 ---
-layout: page
+layout: post
 title: My Projects
 description: These are what I have done as a programmer.
 background: '/img/bg-about.jpg'
@@ -56,6 +56,7 @@ background: '/img/bg-about.jpg'
 <div class="container-sm">
     {% for project in site.posts %}
     {{ project }}
-    <div class="post-border"></div>
+    <hr>
+    </div>
     {% endfor %}
 </div>
