@@ -6,7 +6,7 @@ date: 2020-05-23
 <div class="container">
     <div class="row">
         <div class="col">
-            <p><img src="/assets/images/IcePredction.png" alt="Prediction model image" height="80%" width="80%"></p>
+            <p><img src="/assets/images/IcePrediction.png" alt="Prediction model image" height="80%" width="80%"></p>
         </div>
         <div class="col">
             <h2 style=" margin-left:30px;">Description</h2>
@@ -15,6 +15,10 @@ date: 2020-05-23
             <ul>
             <li>Retrieve real data from web</li>
             <li>Calculate and Perform linear regression model using Python</li>
+            </ul>
+            <h3>GitHub</h3>
+            <ul>
+            <li><a href="https://github.com/YeochanYoun119/Ice-Cover">https://github.com/YeochanYoun119/Ice-Cover</a></li>
             </ul>         
         </div>
     </div>
