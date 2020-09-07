@@ -6,7 +6,7 @@ date: 2020-05-23
 <div class="container">
     <div class="row">
         <div class="col">
-            <p><img src="/assets/images/IcePrediction.png" alt="Prediction model image" height="80%" width="80%"></p>
+            <p><img src="/assets/images/IcePredction.png" alt="Prediction model image" height="80%" width="80%"></p>
         </div>
         <div class="col">
             <h2 style=" margin-left:30px;">Description</h2>
