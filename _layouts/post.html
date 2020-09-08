@@ -17,9 +17,9 @@ layout: default
             {% if page.subtitle %}
             <h2 class="subheading">{{ page.subtitle }}</h2>
             {% endif %}
-            <span class="meta">Posted by
+            <span class="meta">Programmed by
               <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a><br>
-              {{ page.start | date: '%B %d, %Y' }} - {{ page.end | date: '%B %d, %Y' }}
+              from {{ page.start | date: '%B %d, %Y' }} - {{ page.end | date: '%B %d, %Y' }}
             </span>
           </div>
         </div>
