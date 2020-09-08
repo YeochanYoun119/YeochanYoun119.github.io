@@ -4,6 +4,7 @@ title: "Ice Cover on lake Prediction model"
 subtitle: "Python"
 start: 2020-01-23
 end: 2020-05-23
+background: '/assets/images/python.jpg'
 ---
 <div class="container">
     <div class="row">

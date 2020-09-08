@@ -4,6 +4,7 @@ title: "AI Teeko Player"
 subtitle: "Python"
 start: 2020-01-24
 end: 2020-05-24
+background: '/assets/images/android.jpg'
 ---
 <div class="container">
     <div class="row">
