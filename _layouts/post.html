@@ -18,15 +18,17 @@ layout: default
             <h2 class="subheading">{{ page.subtitle }}</h2>
             {% endif %}
             <span class="meta">Posted by
-              <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
-              on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
-              content=page.content %}
+              <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a><br>
+              {{ page.start | date: '%B %d, %Y' }} - {{ page.end | date: '%B %d, %Y' }}
             </span>
           </div>
         </div>
       </div>
     </div>
   </header>
+  {{ content }}
+</header>
+  <!--
 
   <div class="container">
     <div class="row">

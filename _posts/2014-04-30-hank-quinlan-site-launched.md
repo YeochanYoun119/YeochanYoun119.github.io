@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Ice Cover on lake Prediction model"
-date: 2020-05-23
+start: 2020-01-23
+end: 2020-05-23
 ---
 <div class="container">
     <div class="row">
