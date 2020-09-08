@@ -2,8 +2,8 @@
 layout: post
 title: "Escape Room"
 subtitle: "Computer Puzzle Game | Back End Developer"
-start: 2019-09-23
-end: 2019-12-23
+start: 2019-03-23
+end: 2019-05-23
 background: '/assets/images/javaLogo.jpg'
 ---
 <div class="container">
