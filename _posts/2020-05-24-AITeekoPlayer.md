@@ -4,7 +4,7 @@ title: "AI Teeko Player"
 subtitle: "Computer Board Game | Back End Developer"
 start: 2020-01-24
 end: 2020-05-24
-background: '/assets/images/pythonLogo.png'
+background: '/assets/images/python.jpg'
 ---
 <div class="container">
     <div class="row">
@@ -17,6 +17,7 @@ background: '/assets/images/pythonLogo.png'
              <a href="https://bonaludo.com/2016/07/27/teeko-a-game-and-a-masterpiece-of-john-scarne-the-wizard-of-games/">Here is more rule for Teeko.</a></p>
             <h2>Techniques</h2>
             <ul>
+            <li>Python</li>>
             <li>MiniMax algorithm to implement AI player's game decision strategy</li>
             <li>Calculate heuristic value of the game state to make AI take faster decision for next move</li>
             </ul>

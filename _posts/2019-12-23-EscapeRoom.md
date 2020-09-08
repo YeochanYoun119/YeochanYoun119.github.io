@@ -16,6 +16,7 @@ background: '/assets/images/javaLogo.jpg'
             <p> Object of this game is escape the room using items in proper place. You can click and drag the items in the game. Compete with your friends who can escape faster!!!</p>
             <h2>Techniques</h2>
             <ul>
+            <li>Java</li>
             <li>Object orientation programming<br>
             ex. build visible item from basic item, clickable item from visible item, and draggable item from clickable item</li>
             </ul>
