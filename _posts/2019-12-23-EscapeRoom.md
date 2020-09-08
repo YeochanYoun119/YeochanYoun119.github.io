@@ -18,7 +18,7 @@ end: 2019-12-23
             <li>Object orientation programming<br>
             ex. build visible item from basic item, clickable item from visible item, and draggable item from clickable item</li>
             </ul>
-            <h2>GitHub</h2>
+            <h3>GitHub</h3>
             <ul>
             <li><a href="https://github.com/YeochanYoun119/EscapeRoom">https://github.com/YeochanYoun119/EscapeRoom</a></li>
             </ul>         

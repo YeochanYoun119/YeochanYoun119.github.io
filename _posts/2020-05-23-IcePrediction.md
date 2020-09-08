@@ -18,7 +18,7 @@ end: 2020-05-23
             <li>Retrieve real data from web</li>
             <li>Calculate and Perform linear regression model using Python</li>
             </ul>
-            <h2>GitHub</h2>
+            <h3>GitHub</h3>
             <ul>
             <li><a href="https://github.com/YeochanYoun119/Ice-Cover">https://github.com/YeochanYoun119/Ice-Cover</a></li>
             </ul>         

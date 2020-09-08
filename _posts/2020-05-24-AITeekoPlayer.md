@@ -18,7 +18,7 @@ end: 2020-05-24
             <li>MiniMax algorithm to implement AI player's game decision strategy</li>
             <li>Calculate heuristic value of the game state to make AI take faster decision for next move</li>
             </ul>
-            <h2>GitHub</h2>
+            <h3>GitHub</h3>
             <ul>
             <li><a href="https://github.com/YeochanYoun119/TeekoGame">https://github.com/YeochanYoun119/TeekoGame</a></li>
             </ul>         
