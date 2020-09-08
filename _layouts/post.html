@@ -3,7 +3,7 @@
 <html>
 <!-- Page Header -->
 {% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')" width="100%" height="100%">
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}'); background-size: 100% 100%">
   {% else %}
   <header class="masthead">
     {% endif %}
