@@ -4,7 +4,7 @@ title: "AI Teeko Player"
 subtitle: "Computer Board Game | Back End Developer"
 start: 2020-01-24
 end: 2020-05-24
-background: '/assets/images/python.jpg'
+background: '/assets/images/pythonLogo.png'
 ---
 <div class="container">
     <div class="row">

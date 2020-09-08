@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Ice Cover on lake Prediction model"
-subtitle: "linear regression prediction model | Back End Developer"
+subtitle: "Linear regression prediction model | Back End Developer"
 start: 2020-01-23
 end: 2020-05-23
-background: '/assets/images/python.jpg'
+background: '/assets/images/pythonLogo.png'
 ---
 <div class="container">
     <div class="row">
