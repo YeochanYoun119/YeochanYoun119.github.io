@@ -1,12 +1,14 @@
 ---
 layout: post
 title: "Ice Cover on lake Prediction model"
-date: 2020-05-23
+subtitle: "Python"
+start: 2020-01-23
+end: 2020-05-23
 ---
 <div class="container">
     <div class="row">
         <div class="col">
-            <p><img src="/assets/images/IcePredcition.png" alt="Prediction model image" height="80%" width="80%"></p>
+            <p><img src="/assets/images/IcePredcition.png" alt="Prediction model"></p>
         </div>
         <div class="col">
             <h2 style=" margin-left:30px;">Description</h2>
