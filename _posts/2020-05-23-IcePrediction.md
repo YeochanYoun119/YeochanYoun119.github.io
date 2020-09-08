@@ -24,5 +24,5 @@ end: 2020-05-23
             </ul>         
         </div>
     </div>
-    <hr style="border: 2px solid lightgray;" />
+<hr style="height:2px;border-width:0;color:gray;background-color:lightgray">
 </div>
