@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Teeko Player"
-subtitle: "Python"
+subtitle: "Computer Board Game | Back End Developer"
 start: 2020-01-24
 end: 2020-05-24
 background: '/assets/images/python.jpg'
