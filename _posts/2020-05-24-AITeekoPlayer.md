@@ -8,7 +8,7 @@ end: 2020-05-24
 <div class="container">
     <div class="row">
         <div class="col-sm-6">
-            <p><img src="/assets/images/20200831_005723.jpg" alt="Prediction model" max-width="100%" max-height="100%"></p>
+            <p><img src="/assets/images/20200831_005723.jpg" alt="Prediction model" width="100%" height="100%"></p>
         </div>
         <div class="col-sm-6">
             <h2>Description</h2>
