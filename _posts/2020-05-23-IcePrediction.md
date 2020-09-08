@@ -24,4 +24,5 @@ end: 2020-05-23
             </ul>         
         </div>
     </div>
+    <hr style="border: 1px solid gray;" />
 </div>
