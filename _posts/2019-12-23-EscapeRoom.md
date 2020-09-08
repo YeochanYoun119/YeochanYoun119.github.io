@@ -7,10 +7,10 @@ end: 2019-12-23
 ---
 <div class="container">
     <div class="row">
-        <div class="col">
-            <p><img src="/assets/images/20200831_175509 (2).jpg" alt="EscapeRoom game image"></p>
+        <div class="col-sm-6">
+            <p><img src="/assets/images/20200831_175509 (2).jpg" alt="EscapeRoom game image" width="" height=""></p>
         </div>
-        <div class="col">
+        <div class="col-sm-6">
             <h2 style=" margin-left:30px;">Description</h2>
             <p> Object of this game is escape the room using items in proper place. You can click and drag the items in the game. Compete with your friends who can escape faster!!!</p>
             <h2 style=" margin-left:30px;">Techniques</h2>
