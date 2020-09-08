@@ -24,5 +24,4 @@ end: 2019-12-23
             </ul>         
         </div>
     </div>
-    <hr style="border: 1px solid gray;" />
 </div>
