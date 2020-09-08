@@ -7,7 +7,7 @@ end: 2020-05-23
 <div class="container">
     <div class="row">
         <div class="col">
-            <p><img src="/assets/images/IcePredcition.png" alt="Prediction model image" height="80%" width="80%"></p>
+            <p><img src="/assets/images/IcePredcition.png" alt="Prediction model image" max-width="100%" max-height="100%"></p>
         </div>
         <div class="col">
             <h2>Description</h2>
