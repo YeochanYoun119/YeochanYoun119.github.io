@@ -9,7 +9,7 @@ background: '/assets/images/javaLogo.jpg'
 <div class="container">
     <div class="row">
         <div class="col-sm-6">
-            <p><img src="/assets/images/20200831_175509 (2).jpg" alt="EscapeRoom game image" width="100%" height="100%"></p>
+            <p><img style="border:1px solid lightgray;" src="/assets/images/20200831_175509 (2).jpg" alt="EscapeRoom game image" width="100%" height="100%"></p>
         </div>
         <div class="col-sm-6">
             <h2>Description</h2>
