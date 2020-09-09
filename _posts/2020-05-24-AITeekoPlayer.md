@@ -9,7 +9,7 @@ background: '/assets/images/python.jpg'
 <div class="container">
     <div class="row">
         <div class="col-sm-6">
-            <p><img src="/assets/images/20200831_005723.jpg" alt="Prediction model" width="100%" height="100%"></p>
+            <img src="/assets/images/20200831_005723.jpg" alt="Prediction model" width="100%" height="100%">
         </div>
         <div class="col-sm-6">
             <h2>Description</h2>
