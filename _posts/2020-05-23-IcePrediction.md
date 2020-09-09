@@ -22,7 +22,7 @@ background: '/assets/images/python.jpg'
             </ul>
             <h3>GitHub</h3>
             <ul>
-            <li><a href="https://github.com/YeochanYoun119/Ice-Cover">https://github.com/YeochanYoun119/Ice-Cover</a></li>
+            <li><a href="https://github.com/YeochanYoun119/Ice-Cover" target="_blank">https://github.com/YeochanYoun119/Ice-Cover</a></li>
             </ul>         
         </div>
     </div>

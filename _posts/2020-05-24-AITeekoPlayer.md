@@ -14,7 +14,7 @@ background: '/assets/images/python.jpg'
         <div class="col-sm-6">
             <h2>Description</h2>
             <p> Teeko is a two player board game playing on 5x5 board. Each player plays 4 stones of either red or black. First person who makes a specific winning shape with stones is winner. This program has AI player which can analyze the game state and play against the player. Try if you can defeat this AI opponent!!!<br>
-             <a href="https://bonaludo.com/2016/07/27/teeko-a-game-and-a-masterpiece-of-john-scarne-the-wizard-of-games/">More details about Teeko game.</a></p>
+             <a href="https://bonaludo.com/2016/07/27/teeko-a-game-and-a-masterpiece-of-john-scarne-the-wizard-of-games/" target="_blank">More details about Teeko game.</a></p>
             <h2>Techniques</h2>
             <ul>
             <li>Python</li>
@@ -23,7 +23,7 @@ background: '/assets/images/python.jpg'
             </ul>
             <h3>GitHub</h3>
             <ul>
-            <li><a href="https://github.com/YeochanYoun119/TeekoGame">https://github.com/YeochanYoun119/TeekoGame</a></li>
+            <li><a href="https://github.com/YeochanYoun119/TeekoGame" target="_blank">https://github.com/YeochanYoun119/TeekoGame</a></li>
             </ul>         
         </div>
     </div>

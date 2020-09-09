@@ -22,7 +22,7 @@ background: '/assets/images/javaLogo.jpg'
             </ul>
             <h3>GitHub</h3>
             <ul>
-            <li><a href="https://github.com/YeochanYoun119/EscapeRoom">https://github.com/YeochanYoun119/EscapeRoom</a></li>
+            <li><a href="https://github.com/YeochanYoun119/EscapeRoom" target="_blank">https://github.com/YeochanYoun119/EscapeRoom</a></li>
             </ul>         
         </div>
     </div>
